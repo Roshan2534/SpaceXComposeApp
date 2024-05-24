@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633305830110",
+    "project_id": "space2x-aa9bc",
+    "storage_bucket": "space2x-aa9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633305830110:android:ce5840eda4133abd64284f",
+        "android_client_info": {
+          "package_name": "com.kryptopass.space2x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_kFHKtHfDdt7PRVJeAmjtv1blzPV3Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
